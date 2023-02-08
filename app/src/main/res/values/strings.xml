@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application7</string>
+    <string-array name="list">
+        <item>카테고리를 입력해주세요</item>
+        <item>판매게시판</item>
+        <item>질문게시판</item>
+        <item>자유게시판</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
